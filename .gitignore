@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LinuxProject/.vs/LinuxProject
+/LinuxProject/LinuxProject/bin
+/LinuxProject/LinuxProject/obj
+/LinuxProject/LinuxProject/Content/obj/DesktopGL/net8.0/Content
